@@ -1,0 +1,21 @@
+.rep {
+    padding: 10px;
+    color: goldenrod;
+    background-color: fuscia;
+    margin: 0;
+}
+
+.sidebar {
+    border: 1px solid black;
+    float: center;
+}
+
+.rep__name{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.sidebar__header{
+    color: blueviolet;
+    font-size: 20px;
+}
